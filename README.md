@@ -15,9 +15,9 @@ State of component:
 
 Component methods:
     onPress()
-        1) после ввода телефона и нажатия на кнопку отправляеться на сервер номер телефона
-        2) в случае когда пользователь ввел полученный код и нажал на кнопку, отправляеться запрос на сервер с кодом и сравнивает соответствия
-        3) есть возможность ввести сразу номер и код без ожидания смс от сервера
+        1) after entering the phone and pressing the button is sent to the server telephone number
+        2) in the case when the user has entered the code and pressed the button, a request is sent to the server with the code and compares the compliance
+        3) have the ability to enter number and code without waiting for the SMS from the server
 
 
     numberHandler()
